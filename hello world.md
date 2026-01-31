@@ -1,1 +1,3 @@
-Hello everyone.
+# Hello everyone.
+
+Начинаем наше знакомство с контролем версий.
